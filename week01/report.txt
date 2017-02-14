@@ -1,0 +1,1 @@
+pada week01 tugas yang diberikan merupakan simulasi membuat directory dan membuat file melalui terminal. hal ini juga dilakukan untuk membiasakan diri menggunakan terminal dan github

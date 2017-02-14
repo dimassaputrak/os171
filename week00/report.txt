@@ -1,0 +1,7 @@
+Pada sesi week0 kemarin, kita diberikan tugas untuk mengenal tentang github.
+Pertama kita harus membuat akun github dan mendaftarkannya ke kelas OS.
+Setelah akun github git terdaftar, kemudian kita membuka putty untuk mengakses server badak.cs.ui.ac.id
+lalu kita mendaftarkan akun github kita ke server badak.cs.ui.ac.id
+lalu kita melakukan ssh di putty
+
+#Dimas_Saputra

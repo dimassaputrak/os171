@@ -20,3 +20,5 @@ drwxr-xr-x  2 dimas.saputra51 StafCS 4096 Feb 14 12:02 week09
 drwxr-xr-x  2 dimas.saputra51 StafCS 4096 Feb 14 12:02 week10
 drwxr-xr-x  2 dimas.saputra51 StafCS 4096 Feb 14 12:03 xtra
 /home/fasilkom/mahasiswa/d/dimas.saputra51/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S

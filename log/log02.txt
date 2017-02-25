@@ -1,0 +1,14 @@
+w02-170221-13-LR-About: Protection and Security, From: Lecturer
+w02-170221-13-LR-About: Protection and Security, From: Lecturer
+w02-170221-14-LR-About: Protection and Security, From: Lecturer
+w02-170221-14-LR-About: Protection and Security, From: Lecturer
+w02-170223-13-LR-About: Code using C, From: Lecturer
+w02-170223-13-LR-About: Code using C, From: Lecturer
+w02-170223-14-LR-About: Code using C, From: Lecturer
+w02-170223-14-LR-About: Code using C, From: Lecturer
+w02-170225-00-DS-About: Discuss about lab week02
+w02-170225-01-PS-About: Lab session Week02, encrypting
+w02-170225-01-PS-About: Lab session Week02, create loop function in C
+w02-170225-08-PS-About: Lab session Week02, create loop function in C (fix some syntax)
+w02-170225-08-PS-About: Lab session Week02, archive work02
+w02-170225-12-PS-About: Lab session Week02, creating log02.txt
